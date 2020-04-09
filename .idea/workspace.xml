@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48be8d73-14e4-407e-b364-f97da3d87453" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go.mod">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="28" column="14" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="14" />
+              <folding>
+                <element signature="e#323#368#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/helper_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+              <folding>
+                <element signature="e#22#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Plus</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Incr</replace>
+    </replaceStrings>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go1.13" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/helper.go" />
+        <option value="$PROJECT_DIR$/helper_test.go" />
+        <option value="$PROJECT_DIR$/README" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-1" />
+    <option name="width" value="1366" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="semverHelper" type="b2602c69:ProjectViewProjectNode" />
+              <item name="semverHelper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Test.Test_semver in github.com/guowenshuai/semverHelper">
+    <configuration name="Test_semver in github.com/guowenshuai/semverHelper" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="semverHelper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/guowenshuai/semverHelper" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^Test_semver$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="helper_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="semverHelper" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <package value="github.com/guowenshuai/semverHelper" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/helper_test.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.Test_semver in github.com/guowenshuai/semverHelper" />
+        <item itemvalue="Go Test.helper_test.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 00m 19s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 00m 35s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 02m 29s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 02m 40s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 02m 58s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 14m 14s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 15m 49s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 17m 04s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 17m 14s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="Test_semver_in_github_com_guowenshuai_semverHelper - 2020.04.09 at 18h 20m 17s.xml">
+      <configuration name="Test_semver in github.com/guowenshuai/semverHelper" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-1" width="1920" height="1080" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.67325056" visible="true" weight="0.19637139" />
+      <window_info id="Favorites" order="1" sideWeight="0.32674944" side_tool="true" weight="0.29013538" />
+      <window_info id="Structure" order="2" sideWeight="0.49943566" side_tool="true" weight="0.19535783" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36504653" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295711" />
+      <window_info anchor="bottom" id="Docker" order="7" weight="0.3295711" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3295711" />
+      <window_info anchor="bottom" id="GraphQL" order="9" weight="0.32900676" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.44053775" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Word Book" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="28" column="14" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="14" />
+          <folding>
+            <element signature="e#323#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helper_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+          <folding>
+            <element signature="e#22#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
